@@ -1,8 +1,8 @@
-- Hi, I’m @DeCEll-1
-- I’m interested in amogus
-- I’m currently learning c#
+- Hi, I’m Arda Eren
+- I’m interested in games
+- I’m currently learning C#
 - I’m looking to collaborate on no one
-- How to reach me DeCell#7556
+- How to reach me DeCell#7556/
 
 <!---
 DeCEll-1/DeCEll-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
