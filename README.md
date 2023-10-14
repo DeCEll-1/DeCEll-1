@@ -1,6 +1,6 @@
 - Hi, I’m Arda Eren
 - I’m interested in games
-- I’m currently learning C#
+- I’m currently learning C# and OpenCV
 - I’m looking to collaborate on no one
 - How to reach me DeCell#7556/
 
