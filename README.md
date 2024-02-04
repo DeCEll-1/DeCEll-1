@@ -1,6 +1,6 @@
-Hi, I’m Arda Eren
+hello hello
 
-Im .7556 on Discord
+.7556 on Discord
 
 [![decells's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeCEll-1)](https://github.com/DeCEll-1/github-readme-stats)
 
