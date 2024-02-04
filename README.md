@@ -1,8 +1,8 @@
-- Hi, I’m Arda Eren
-- I’m interested in games
-- I’m currently learning C# and OpenCV
-- I’m looking to collaborate on no one
-- How to reach me .7556 on Discord
+Hi, I’m Arda Eren
+
+Im .7556 on Discord
+
+[![decells's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeCEll-1)](https://github.com/DeCEll-1/github-readme-stats)
 
 <!---
 DeCEll-1/DeCEll-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
