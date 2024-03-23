@@ -4,6 +4,13 @@ hello hello
 
 [![decells's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeCEll-1&show_icons=true&theme=radical)](https://github.com/DeCEll-1/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeCEll-1&show_icons=true&theme=radical" width="450" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeCEll-1&layout=compact" width="450" />
+</a>
+
 <!---
 DeCEll-1/DeCEll-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
