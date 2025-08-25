@@ -14,6 +14,7 @@ shoot me a dm over discord ( .7556 ) if you wanna comission me
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeCEll-1&layout=compact&exclude_repo=DeCEll-1.github.io,AngularOgreniyorum,ZEYTINYAG-SEVERIM,SecondBootstrapWebAppBootstrap,AnInterestingName,proje&size_weight=0.5&count_weight=0.5&langs_count=32&card_width=500"  />
 </a>
+timing is not accurate as i started using these way later into coding
 <br/>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" width=500  src="https://github-readme-stats.vercel.app/api/wakatime?username=DeCell"  />
