@@ -26,7 +26,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&exclude_repo=DeCEll-1.github.io,AngularOgreniyorum,ZEYTINYAG-SEVERIM,SecondBootstrapWebAppBootstrap,AnInterestingName,proje&size_weight=0.5&count_weight=0.5&langs_count=32&card_width=500
+          options: username=${{ github.repository_owner }}&layout=compact&exclude_repo=DeCEll-1.github.io,AngularOgreniyorum,ZEYTINYAG-SEVERIM,SecondBootstrapWebAppBootstrap,AnInterestingName,proje&size_weight=0.5&count_weight=0.5&langs_count=64&card_width=500
           path: ./top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -34,7 +34,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=${{ github.repository_owner }}
+          options: username=DeCell
           token: ${{ secrets.GITHUB_TOKEN }}
           path: ./wakatime.svg
 
