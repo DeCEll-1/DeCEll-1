@@ -130,7 +130,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="31.48%">
+      <svg data-testid="lang-progress" width="31.26%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -153,7 +153,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="16.1%">
+      <svg data-testid="lang-progress" width="15.99%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -172,11 +172,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >82 hrs 21 mins</text>
+      >82 hrs 29 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="7.02%">
+      <svg data-testid="lang-progress" width="6.99%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -195,11 +195,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >74 hrs 38 mins</text>
+      >74 hrs 42 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="6.37%">
+      <svg data-testid="lang-progress" width="6.33%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -218,11 +218,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >64 hrs 15 mins</text>
+      >64 hrs 23 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="5.48%">
+      <svg data-testid="lang-progress" width="5.45%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -241,11 +241,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >59 hrs 55 mins</text>
+      >60 hrs</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="5.11%">
+      <svg data-testid="lang-progress" width="5.08%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -259,16 +259,16 @@
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Other">Other:</text>
+      <text class="stat bold" y="12.5" data-testid="TypeScript">TypeScript:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >50 hrs 42 mins</text>
+      >50 hrs 56 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="4.33%">
+      <svg data-testid="lang-progress" width="4.31%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -282,16 +282,16 @@
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="TypeScript">TypeScript:</text>
+      <text class="stat bold" y="12.5" data-testid="Other">Other:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >49 hrs 49 mins</text>
+      >50 hrs 43 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="4.25%">
+      <svg data-testid="lang-progress" width="4.3%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -314,7 +314,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="3.29%">
+      <svg data-testid="lang-progress" width="3.26%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -333,11 +333,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >30 hrs 28 mins</text>
+      >30 hrs 35 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="2.6%">
+      <svg data-testid="lang-progress" width="2.59%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -360,7 +360,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="2.04%">
+      <svg data-testid="lang-progress" width="2.02%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -425,7 +425,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >16 hrs 53 mins</text>
+      >17 hrs 14 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -471,7 +471,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >13 hrs 40 mins</text>
+      >13 hrs 43 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -558,12 +558,12 @@
     </g>
   </g><g transform="translate(0, 475)">
     <g class="stagger" style="animation-delay: 3300ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="CLASS">CLASS:</text>
+      <text class="stat bold" y="12.5" data-testid="Svelte">Svelte:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >3 hrs 36 mins</text>
+      >6 hrs 8 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -581,12 +581,12 @@
     </g>
   </g><g transform="translate(0, 500)">
     <g class="stagger" style="animation-delay: 3450ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="CSV">CSV:</text>
+      <text class="stat bold" y="12.5" data-testid="CLASS">CLASS:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >3 hrs 25 mins</text>
+      >3 hrs 36 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -604,12 +604,12 @@
     </g>
   </g><g transform="translate(0, 525)">
     <g class="stagger" style="animation-delay: 3600ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="YAML">YAML:</text>
+      <text class="stat bold" y="12.5" data-testid="CSV">CSV:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >2 hrs 51 mins</text>
+      >3 hrs 25 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -627,12 +627,12 @@
     </g>
   </g><g transform="translate(0, 550)">
     <g class="stagger" style="animation-delay: 3750ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="PHP">PHP:</text>
+      <text class="stat bold" y="12.5" data-testid="YAML">YAML:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >2 hrs 49 mins</text>
+      >2 hrs 51 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -650,12 +650,12 @@
     </g>
   </g><g transform="translate(0, 575)">
     <g class="stagger" style="animation-delay: 3900ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="C++">C++:</text>
+      <text class="stat bold" y="12.5" data-testid="PHP">PHP:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >2 hrs 24 mins</text>
+      >2 hrs 49 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -673,12 +673,12 @@
     </g>
   </g><g transform="translate(0, 600)">
     <g class="stagger" style="animation-delay: 4050ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Markdown">Markdown:</text>
+      <text class="stat bold" y="12.5" data-testid="C++">C++:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >1 hr 59 mins</text>
+      >2 hrs 24 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -696,12 +696,12 @@
     </g>
   </g><g transform="translate(0, 625)">
     <g class="stagger" style="animation-delay: 4200ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="TSConfig">TSConfig:</text>
+      <text class="stat bold" y="12.5" data-testid="Markdown">Markdown:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >1 hr 37 mins</text>
+      >1 hr 59 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -719,12 +719,12 @@
     </g>
   </g><g transform="translate(0, 650)">
     <g class="stagger" style="animation-delay: 4350ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="INI">INI:</text>
+      <text class="stat bold" y="12.5" data-testid="TSConfig">TSConfig:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >1 hr 36 mins</text>
+      >1 hr 39 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -742,12 +742,12 @@
     </g>
   </g><g transform="translate(0, 675)">
     <g class="stagger" style="animation-delay: 4500ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="WebVTT">WebVTT:</text>
+      <text class="stat bold" y="12.5" data-testid="INI">INI:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >1 hr 29 mins</text>
+      >1 hr 36 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -765,12 +765,12 @@
     </g>
   </g><g transform="translate(0, 700)">
     <g class="stagger" style="animation-delay: 4650ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="reg">reg:</text>
+      <text class="stat bold" y="12.5" data-testid="WebVTT">WebVTT:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >1 hr 26 mins</text>
+      >1 hr 29 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -788,12 +788,12 @@
     </g>
   </g><g transform="translate(0, 725)">
     <g class="stagger" style="animation-delay: 4800ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="C">C:</text>
+      <text class="stat bold" y="12.5" data-testid="reg">reg:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >1 hr 2 mins</text>
+      >1 hr 26 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -811,12 +811,12 @@
     </g>
   </g><g transform="translate(0, 750)">
     <g class="stagger" style="animation-delay: 4950ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Git Config">Git Config:</text>
+      <text class="stat bold" y="12.5" data-testid="C">C:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >50 mins</text>
+      >1 hr 2 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -834,12 +834,12 @@
     </g>
   </g><g transform="translate(0, 775)">
     <g class="stagger" style="animation-delay: 5100ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Unity3D Asset">Unity3D Asset:</text>
+      <text class="stat bold" y="12.5" data-testid="Git Config">Git Config:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >37 mins</text>
+      >51 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -857,12 +857,12 @@
     </g>
   </g><g transform="translate(0, 800)">
     <g class="stagger" style="animation-delay: 5250ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="HLSL">HLSL:</text>
+      <text class="stat bold" y="12.5" data-testid="Unity3D Asset">Unity3D Asset:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >30 mins</text>
+      >37 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -880,12 +880,12 @@
     </g>
   </g><g transform="translate(0, 825)">
     <g class="stagger" style="animation-delay: 5400ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Razor">Razor:</text>
+      <text class="stat bold" y="12.5" data-testid="HLSL">HLSL:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >28 mins</text>
+      >30 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -903,12 +903,12 @@
     </g>
   </g><g transform="translate(0, 850)">
     <g class="stagger" style="animation-delay: 5550ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Wavefront Object">Wavefront Object:</text>
+      <text class="stat bold" y="12.5" data-testid="Razor">Razor:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >26 mins</text>
+      >28 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -926,12 +926,12 @@
     </g>
   </g><g transform="translate(0, 875)">
     <g class="stagger" style="animation-delay: 5700ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="VB.NET">VB.NET:</text>
+      <text class="stat bold" y="12.5" data-testid="Wavefront Object">Wavefront Object:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >18 mins</text>
+      >26 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -949,12 +949,12 @@
     </g>
   </g><g transform="translate(0, 900)">
     <g class="stagger" style="animation-delay: 5850ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="SSH Config">SSH Config:</text>
+      <text class="stat bold" y="12.5" data-testid="VB.NET">VB.NET:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >17 mins</text>
+      >18 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -972,12 +972,12 @@
     </g>
   </g><g transform="translate(0, 925)">
     <g class="stagger" style="animation-delay: 6000ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Assembly">Assembly:</text>
+      <text class="stat bold" y="12.5" data-testid="SSH Config">SSH Config:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >15 mins</text>
+      >17 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -995,12 +995,12 @@
     </g>
   </g><g transform="translate(0, 950)">
     <g class="stagger" style="animation-delay: 6150ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Todotxt">Todotxt:</text>
+      <text class="stat bold" y="12.5" data-testid="Assembly">Assembly:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >11 mins</text>
+      >15 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -1018,12 +1018,12 @@
     </g>
   </g><g transform="translate(0, 975)">
     <g class="stagger" style="animation-delay: 6300ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="SRecode Template">SRecode Template:</text>
+      <text class="stat bold" y="12.5" data-testid="Todotxt">Todotxt:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >9 mins</text>
+      >11 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -1041,12 +1041,12 @@
     </g>
   </g><g transform="translate(0, 1000)">
     <g class="stagger" style="animation-delay: 6450ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Groovy">Groovy:</text>
+      <text class="stat bold" y="12.5" data-testid="SRecode Template">SRecode Template:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >7 mins</text>
+      >9 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -1064,7 +1064,7 @@
     </g>
   </g><g transform="translate(0, 1025)">
     <g class="stagger" style="animation-delay: 6600ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="XAML">XAML:</text>
+      <text class="stat bold" y="12.5" data-testid="Groovy">Groovy:</text>
       <text
         class="stat"
         x="350"
@@ -1087,7 +1087,7 @@
     </g>
   </g><g transform="translate(0, 1050)">
     <g class="stagger" style="animation-delay: 6750ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Roff">Roff:</text>
+      <text class="stat bold" y="12.5" data-testid="XAML">XAML:</text>
       <text
         class="stat"
         x="350"
@@ -1110,12 +1110,12 @@
     </g>
   </g><g transform="translate(0, 1075)">
     <g class="stagger" style="animation-delay: 6900ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="IDEA_MODULE">IDEA_MODULE:</text>
+      <text class="stat bold" y="12.5" data-testid="Roff">Roff:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >6 mins</text>
+      >7 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -1133,7 +1133,7 @@
     </g>
   </g><g transform="translate(0, 1100)">
     <g class="stagger" style="animation-delay: 7050ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Manifest">Manifest:</text>
+      <text class="stat bold" y="12.5" data-testid="IDEA_MODULE">IDEA_MODULE:</text>
       <text
         class="stat"
         x="350"
@@ -1156,12 +1156,12 @@
     </g>
   </g><g transform="translate(0, 1125)">
     <g class="stagger" style="animation-delay: 7200ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="ISPC">ISPC:</text>
+      <text class="stat bold" y="12.5" data-testid="Manifest">Manifest:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >5 mins</text>
+      >6 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -1179,7 +1179,7 @@
     </g>
   </g><g transform="translate(0, 1150)">
     <g class="stagger" style="animation-delay: 7350ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="SQL">SQL:</text>
+      <text class="stat bold" y="12.5" data-testid="ISPC">ISPC:</text>
       <text
         class="stat"
         x="350"
@@ -1202,12 +1202,12 @@
     </g>
   </g><g transform="translate(0, 1175)">
     <g class="stagger" style="animation-delay: 7500ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="nanorc">nanorc:</text>
+      <text class="stat bold" y="12.5" data-testid="SQL">SQL:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >4 mins</text>
+      >5 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -1225,7 +1225,7 @@
     </g>
   </g><g transform="translate(0, 1200)">
     <g class="stagger" style="animation-delay: 7650ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Image (svg)">Image (svg):</text>
+      <text class="stat bold" y="12.5" data-testid="nanorc">nanorc:</text>
       <text
         class="stat"
         x="350"
@@ -1248,7 +1248,7 @@
     </g>
   </g><g transform="translate(0, 1225)">
     <g class="stagger" style="animation-delay: 7800ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Image (png)">Image (png):</text>
+      <text class="stat bold" y="12.5" data-testid="Image (svg)">Image (svg):</text>
       <text
         class="stat"
         x="350"
@@ -1271,12 +1271,12 @@
     </g>
   </g><g transform="translate(0, 1250)">
     <g class="stagger" style="animation-delay: 7950ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Git">Git:</text>
+      <text class="stat bold" y="12.5" data-testid="Image (png)">Image (png):</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >2 mins</text>
+      >4 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -1294,7 +1294,7 @@
     </g>
   </g><g transform="translate(0, 1275)">
     <g class="stagger" style="animation-delay: 8100ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Svelte">Svelte:</text>
+      <text class="stat bold" y="12.5" data-testid="Git">Git:</text>
       <text
         class="stat"
         x="350"
